@@ -1,4 +1,6 @@
 # Arduino
+ 
+A titre explicatif cela représente un descriptif , j'ai mis un rapport dans le dossier projet que j'ai édité sous latex et dans lequel j'ai inséré les images des circuits et les codes des fonctions. 
 
 # 0.1 Idée 
 
