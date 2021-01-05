@@ -4,7 +4,7 @@ A titre explicatif cela représente un descriptif , j'ai mis un rapport dans le 
 
 # 0.1 Idée 
 
-J’ai eu l’idée de mettre en place un système de supervision, comme on pourrait en retrouver dansunmilieuindustrieloudanslesmaisonsintelligentes.Lebutserad’aﬃcherdesinformations sur l’écran LCD en fonction d’évènements qui se passent dans le milieu extérieur.
+J’ai eu l’idée de mettre en place un système de supervision, comme on pourrait en retrouver dans un milieu industriel ou dans les maisons intelligentes.Le but sera d’aﬃcher des informations sur l’écran LCD en fonction d’évènements qui se passent dans le milieu extérieur.
 
 # 0.2 Représentation
 -Deux boutons, qui pourraient représenter par exemple deux barrières infrarouges et dont le signal reçu passe de 1 à 0 lorsqu’un objet passe devant.
